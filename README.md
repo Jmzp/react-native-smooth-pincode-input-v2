@@ -1,3 +1,7 @@
+#### Forked from
+
+https://github.com/xamous/react-native-smooth-pincode-input
+
 # React Native Smooth Pincode Input
 
 A cross-platform, smooth, lightweight, customizable PIN code input component for React Native.
